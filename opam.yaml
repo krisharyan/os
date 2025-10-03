@@ -9,6 +9,7 @@ package:
 environment:
   contents:
     packages:
+      - posix-libc-utils
       - acl-dev
       - binutils-dev
       - build-base
